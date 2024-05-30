@@ -1,0 +1,76 @@
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\appsettings.json
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.exe
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.deps.json
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.runtimeconfig.json
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.dll
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.pdb
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NEt\Eg\InvoicingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.csproj.AssemblyReference.cache
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.AssemblyInfoInputs.cache
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.AssemblyInfo.cs
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.csproj.CoreCompileInputs.cache
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.InvoicingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InvoicingSystem.props
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvoicingSystem.props
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvoicingSystem.props
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\scopedcss\bundle\InvoicingSystem.styles.css
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\Invoicin.FB21CC0C.Up2Date
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.dll
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\refint\InvoicingSystem.dll
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.pdb
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.genruntimeconfig.cache
+D:\ASP.NEt\Eg\InvoicingSystem\obj\Debug\net8.0\ref\InvoicingSystem.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\appsettings.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.exe
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.deps.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.runtimeconfig.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\InvoicingSystem.pdb
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.csproj.AssemblyReference.cache
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.AssemblyInfoInputs.cache
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.AssemblyInfo.cs
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.csproj.CoreCompileInputs.cache
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.sourcelink.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.InvoicingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InvoicingSystem.props
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InvoicingSystem.props
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InvoicingSystem.props
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\scopedcss\bundle\InvoicingSystem.styles.css
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\Invoicin.FB21CC0C.Up2Date
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\refint\InvoicingSystem.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.pdb
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\InvoicingSystem.genruntimeconfig.cache
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\obj\Debug\net8.0\ref\InvoicingSystem.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\libman.json
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\ASP.NEt\Eg\EG git\InvoicingSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
